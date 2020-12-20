@@ -1,0 +1,11 @@
+D:\C#\zadanien2\zadanien2\bin\Debug\zadanien2.exe.config
+D:\C#\zadanien2\zadanien2\bin\Debug\zadanien2.exe
+D:\C#\zadanien2\zadanien2\bin\Debug\zadanien2.pdb
+D:\C#\zadanien2\zadanien2\obj\Debug\zadanien2.csprojAssemblyReference.cache
+D:\C#\zadanien2\zadanien2\obj\Debug\zadanien2.Form1.resources
+D:\C#\zadanien2\zadanien2\obj\Debug\zadanien2.Form2.resources
+D:\C#\zadanien2\zadanien2\obj\Debug\zadanien2.Properties.Resources.resources
+D:\C#\zadanien2\zadanien2\obj\Debug\zadanien2.csproj.GenerateResource.cache
+D:\C#\zadanien2\zadanien2\obj\Debug\zadanien2.csproj.CoreCompileInputs.cache
+D:\C#\zadanien2\zadanien2\obj\Debug\zadanien2.exe
+D:\C#\zadanien2\zadanien2\obj\Debug\zadanien2.pdb
